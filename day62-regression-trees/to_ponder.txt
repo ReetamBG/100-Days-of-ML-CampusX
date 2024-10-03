@@ -1,0 +1,2 @@
+How does the boundaries look in this case, we only plotted the regression line (done)
+Make a code for 3D as well i.e 2 input features (pending)
